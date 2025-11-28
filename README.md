@@ -23,12 +23,11 @@ Check out the live site here:
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-
-```bash
-git clone https://github.com/muskan-akram/ecommerce-ui.git
+    ```bash
+    git clone https://github.com/muskan-akram/ecommerce-ui.git
 
 2. **Navigate to the project directory**
-cd react-smart-calculator
+cd ecommerce-ui
 
 3. **Install dependencies**
 npm install
@@ -39,5 +38,4 @@ npm start
 5. **Open in browser**
 The app runs locally at:
 http://localhost:3000
-git clone https://github.com/muskan-akram/ecommerce-ui.git
-cd ecommerce-ui
+
